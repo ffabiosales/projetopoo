@@ -1,0 +1,8 @@
+package geradorProva;
+
+public class Pergunta{
+	
+	String enunciado;
+	
+
+}

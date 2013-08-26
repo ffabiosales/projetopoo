@@ -1,0 +1,11 @@
+package geradorProva;
+
+public class Disciplina {
+	
+	String nome;
+	
+	int codigo;
+	
+	Tema tema;
+
+}
